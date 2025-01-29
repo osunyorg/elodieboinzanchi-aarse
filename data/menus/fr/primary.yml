@@ -15,13 +15,20 @@ items:
   children: []
   path: "/events"
   file: content/fr/events/_index.html
-- title: Projets
-  target: "/projets/"
+- title: Actions
+  target: "/actions/"
   kind: page
   new_tab: false
   children: []
   path: "/projects"
   file: content/fr/projects/_index.html
+- title: Cinéastes membres
+  target: "/membres/"
+  kind: page
+  new_tab: false
+  children: []
+  path: "/pages/membres"
+  file: content/fr/pages/membres/_index.html
 - title: Équipe
   target: "/equipe/"
   kind: page

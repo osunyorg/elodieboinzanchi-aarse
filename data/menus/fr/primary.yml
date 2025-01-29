@@ -29,4 +29,9 @@ items:
   children: []
   path: "/events"
   file: content/fr/events/_index.html
+- title: Adhérer
+  target: https://www.helloasso.com/associations/aarse/adhesions/adhesion-aarse-2025
+  kind: url
+  new_tab: true
+  children: []
 

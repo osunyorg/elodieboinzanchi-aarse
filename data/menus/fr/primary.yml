@@ -15,13 +15,6 @@ items:
   children: []
   path: "/events"
   file: content/fr/events/_index.html
-- title: Actions
-  target: "/actions/"
-  kind: page
-  new_tab: false
-  children: []
-  path: "/projects"
-  file: content/fr/projects/_index.html
 - title: Cinéastes membres
   target: "/membres/"
   kind: page
@@ -29,4 +22,11 @@ items:
   children: []
   path: "/pages/membres"
   file: content/fr/pages/membres/_index.html
+- title: Actions
+  target: "/actions/"
+  kind: page
+  new_tab: false
+  children: []
+  path: "/projects"
+  file: content/fr/projects/_index.html
 

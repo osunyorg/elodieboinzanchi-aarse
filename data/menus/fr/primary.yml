@@ -8,13 +8,6 @@ items:
   children: []
   path: "/events"
   file: content/fr/events/_index.html
-- title: Actions
-  target: "/actions/"
-  kind: page
-  new_tab: false
-  children: []
-  path: "/projects"
-  file: content/fr/projects/_index.html
 - title: Actualités
   target: "/actualites/"
   kind: page
@@ -22,6 +15,13 @@ items:
   children: []
   path: "/posts"
   file: content/fr/posts/_index.html
+- title: Actions
+  target: "/actions/"
+  kind: page
+  new_tab: false
+  children: []
+  path: "/projects"
+  file: content/fr/projects/_index.html
 - title: Cinéastes membres
   target: "/membres/"
   kind: page

@@ -2,6 +2,11 @@
 
 baseURL: https://aarse.elodieboinzanchi.osuny.site
 
+## OSUNY
+osuny:
+  website:
+    id: acf596ef-e2da-4756-856b-b66a501bb1da
+
 ## LANGUAGE
 defaultContentLanguage: fr
 defaultContentLanguageInSubdir: false

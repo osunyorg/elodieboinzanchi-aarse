@@ -2,36 +2,46 @@
 title: Menu principal
 items:
 - title: Agenda
+  slug: agenda
   target: "/agenda/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/events"
   file: content/fr/events/_index.html
 - title: Actualités
+  slug: actualites
   target: "/actualites/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/posts"
   file: content/fr/posts/_index.html
 - title: Actions
+  slug: actions
   target: "/actions/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/projects"
   file: content/fr/projects/_index.html
 - title: Cinéastes membres
+  slug: cineastes-membres
   target: "/membres/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/pages/membres"
   file: content/fr/pages/membres/_index.html
 - title: Adhérer
+  slug: adherer
   target: https://www.helloasso.com/associations/aarse/adhesions/adhesion-aarse-2025
   kind: url
   new_tab: true
   children: []
+  descendants_targets: []
 

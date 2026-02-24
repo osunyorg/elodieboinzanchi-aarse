@@ -21,7 +21,7 @@ items:
   file: content/fr/posts/_index.html
 - title: Actions
   slug: actions
-  target: "/actions/"
+  target: "/films/"
   kind: page
   new_tab: false
   children: []

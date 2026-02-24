@@ -19,8 +19,8 @@ items:
   descendants_targets: []
   path: "/posts"
   file: content/fr/posts/_index.html
-- title: Actions
-  slug: actions
+- title: Films
+  slug: films
   target: "/films/"
   kind: page
   new_tab: false

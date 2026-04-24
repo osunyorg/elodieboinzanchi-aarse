@@ -13,32 +13,3 @@ Cache-Control = "max-age=31536000, no-transform, public"
 for = ["**/*.png", "**/*.jpg", "**/*.jpeg", "**/*.gif", "**/*.webp"]
 [headers.values]
 Cache-Control = "max-age=31536000, no-transform, public"
-
-[[redirects]]
-from = "/ressources/reunions-mensueles/"
-to = "/ressources/reunions-mensuelles/"
-
-[[redirects]]
-from = "/projets/"
-to = "/films/"
-
-[[redirects]]
-from = "/agenda/2025-03-09-le-cinema-de-laarse-a-quoi-revent-les-ouvriers/"
-to = "/agenda/2025/le-cinema-de-laarse-a-quoi-revent-les-ouvriers/"
-
-[[redirects]]
-from = "/agenda/2025-03-09-le-cinema-de-laarse-a-quoi-revent-les-ouvriers-1/"
-to = "/agenda/2025/le-cinema-de-laarse-a-quoi-revent-les-ouvriers-1/"
-
-[[redirects]]
-from = "/actions/"
-to = "/films/"
-
-[[redirects]]
-from = "/agenda/2025-02-18-lapero-de-laarse/"
-to = "/agenda/2025/lapero-de-laarse/"
-
-[[redirects]]
-from = "/equipe/categories/adherentes/"
-to = "/equipe/categories/membres/"
-

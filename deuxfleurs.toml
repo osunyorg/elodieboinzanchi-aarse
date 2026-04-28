@@ -14,3 +14,31 @@ for = ["**/*.png", "**/*.jpg", "**/*.jpeg", "**/*.gif", "**/*.webp"]
 [headers.values]
 Cache-Control = "max-age=31536000, no-transform, public"
 
+[[redirects]]
+from = "/ressources/reunions-mensueles/index.html"
+to = "/ressources/reunions-mensuelles/"
+
+[[redirects]]
+from = "/projets/index.html"
+to = "/films/"
+
+[[redirects]]
+from = "/agenda/2025-03-09-le-cinema-de-laarse-a-quoi-revent-les-ouvriers/index.html"
+to = "/agenda/2025/le-cinema-de-laarse-a-quoi-revent-les-ouvriers/"
+
+[[redirects]]
+from = "/agenda/2025-03-09-le-cinema-de-laarse-a-quoi-revent-les-ouvriers-1/index.html"
+to = "/agenda/2025/le-cinema-de-laarse-a-quoi-revent-les-ouvriers-1/"
+
+[[redirects]]
+from = "/actions/index.html"
+to = "/films/"
+
+[[redirects]]
+from = "/agenda/2025-02-18-lapero-de-laarse/index.html"
+to = "/agenda/2025/lapero-de-laarse/"
+
+[[redirects]]
+from = "/equipe/categories/adherentes/index.html"
+to = "/equipe/categories/membres/"
+

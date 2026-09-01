@@ -31,6 +31,10 @@ from = "/agenda/2025-03-09-le-cinema-de-laarse-a-quoi-revent-les-ouvriers-1/inde
 to = "/agenda/2025/le-cinema-de-laarse-a-quoi-revent-les-ouvriers-1/"
 
 [[redirects]]
+from = "/fichiers/2026/index.html"
+to = "/fichiers/2026/cv-maquette-finalepdf/"
+
+[[redirects]]
 from = "/actions/index.html"
 to = "/films/"
 
